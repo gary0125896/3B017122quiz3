@@ -38,4 +38,6 @@ while (True):
         six()
     if choise == "7":
         seven()
+    else:
+        print("=>無效的選擇")
     print("")
